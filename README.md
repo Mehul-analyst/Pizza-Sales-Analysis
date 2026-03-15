@@ -32,6 +32,4 @@ Analysis of transactional pizza sales data to evaluate revenue performance, cust
 ## Dashboard
 Built in Excel using Pivot Tables
 
-
-## Dashboard
-![Pizza Sales Dashboard](dashboard.png)
+![Pizza Sales Dashboard](PIZZA_SALES_ANALYSIS_DASHBOARD.png)
